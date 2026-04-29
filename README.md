@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/97f2cdac-5a5b-4375-93d8-4a76ae251943" />#  AI Data Analyst App
+#  AI Data Analyst App
 
 Turn any dataset into insights instantly.
 
@@ -24,6 +24,7 @@ Turn any dataset into insights instantly.
 - Groq API (LLM)
 
 ##  Demo
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/97f2cdac-5a5b-4375-93d8-4a76ae251943" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/93d054e5-5e8f-480e-b543-03bd51b04849" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/68fa8ef5-c7f9-470d-8ef2-f73366d190e6" />
 <img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/3d262692-b103-4bfd-ae1c-e1e047b79e5b" />
