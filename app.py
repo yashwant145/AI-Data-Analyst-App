@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from groq import Groq
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key="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")
 models = client.models.list()
 
 for m in models.data:
